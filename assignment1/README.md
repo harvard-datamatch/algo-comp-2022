@@ -33,4 +33,4 @@ Collaboration on high-level design is allowed and actually **highly encouraged**
 As for code sharing, we certainly won't police you if your code looks suspiciously similar to someone else's but still encourage to write your own code as it'll better prepare you for your projects down the line.
 
 ## Other
-If you have any questions, don't hesitate to directly reach out to **Steve Li** or **Iris Lang** on Slack!
+If you have any questions, don't hesitate to directly reach out to **Jeremy Hsu** or **Leonard Tang** on Slack!
