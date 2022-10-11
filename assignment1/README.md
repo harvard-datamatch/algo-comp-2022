@@ -5,7 +5,7 @@ In this assignment, you will implement a lightweight scoring function of your ch
 This assignment will be implemented in **Python** and most of your code will be in the `main.py` file, where you will implement the `compute_score` function.
 
 ## Setup and Logistics
-This assignment is due on **Thursday, October 21st at 11:59 PM EST**. We recommend forking this repository and then sending either one of us (Jeremy or Leonard) the link when you're ready. When you fork, make sure to set this repository as the upstream repository so you can pull any changes we make. **We will not be making any changes to `compute_score`** so if you only write code within that function, you can pull without worrying about encountering merge conflicts.
+This assignment is due on **Thursday, October 25th at 11:59 PM EST**. We recommend forking this repository and then sending either one of us (Jeremy or Leonard) the link when you're ready. When you fork, make sure to set this repository as the upstream repository so you can pull any changes we make. **We will not be making any changes to `compute_score`** so if you only write code within that function, you can pull without worrying about encountering merge conflicts.
 
 **Don't worry** if you are unfamiliar with using Git or Python. We will be providing docs on both that'll give you what you need to get started very soon (Jeremy needs to finish CS 165 and Stat 110 first)! In the meantime, we recommend checking out some articles on Google.
 
